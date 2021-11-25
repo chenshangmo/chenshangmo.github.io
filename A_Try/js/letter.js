@@ -7,7 +7,7 @@ $("#open").click(function(){
 	{
 		var typed = new Typed('.letter', {
 			strings: ["^1000Dear&nbsp;&nbsp;媛菡", 
-				"emmm……^200<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第一段文字<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第二段文字<br><br><p style='float:right; display:block; width:80px;'>^1000署名</p>"],
+				"emmm……^200<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第一段文字<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第二段文字<br><br><p style='float:right; display:block; width:80px;'>^1000或许是呆呆</p>"],
 			typeSpeed: 100,
 			backSpeed: 50
 		});
