@@ -7,8 +7,7 @@ $("#open").click(function(){
 	{
 		var typed = new Typed('.letter', {
 			strings: ["^1000Dear&nbsp;&nbsp;媛菡", 
-				"emmm……^200<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;想了很久，真正开始的时候却不晓得该怎么开口。不得不承认，我是一个非常纠结的人，虽然有时候我也不知道我的纠结能带来什么。不过我想可能我需要一次尝试不是嘛。"
-				"第二段文字 < br > <br><p style='float:right; display:block; width:80px;'>^1000或许是呆呆</p>"],
+				"emmm……^200<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;想了很久，真正开始的时候却不晓得该怎么开口。不得不承认，我是一个非常纠结的人，虽然有时候我也不知道我的纠结能带来什么。不过我想可能我需要一次尝试不是嘛。第二段文字 < br > <br><p style='float:right; display:block; width:80px;'>^1000或许是呆呆</p>"],
 			typeSpeed: 100,
 			backSpeed: 50
 		});
