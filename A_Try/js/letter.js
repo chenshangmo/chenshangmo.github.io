@@ -7,7 +7,7 @@ $("#open").click(function(){
 	{
 		var typed = new Typed('.letter', {
 			strings: ["^1000Dear&nbsp;&nbsp;媛菡", 
-				"emmm……^200<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;想了很久，真正开始的时候却不晓得该怎么开口。不得不承认，我是一个非常纠结的人，虽然有时候我也不知道我的纠结能带来什么。不过我想可能我需要一次尝试不是嘛。第二段文字 < br > <br><p style='float:right; display:block; width:80px;'>^1000或许是呆呆</p>"],
+				"麻烦在复习的你认真看完哦^200<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;今天是十二月的第一天，希望十二月能善待你。算算时间我们也认识了一个多月了，这个月大概是我大学以来最快乐的一个月，谢谢你的到来为我的生活添了一分色彩。^3000我从不相信一见钟情，直到遇到了你。我曾一次一次问过自己，也曾无数次制止自己去迈出下一步。但或许我是不是该勇敢一点，是不是会更好呢？原谅我废话连篇，那么，你能做我女朋友吗？ <br><p style='float:right; display:block; width:100px;'>^1000一个纠结怪</p>"],
 			typeSpeed: 100,
 			backSpeed: 50
 		});
